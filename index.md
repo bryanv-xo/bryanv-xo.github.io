@@ -6,6 +6,7 @@ es uno de los principales proveedores de televisión de paga en México y Centro
 
 
 
-[paquetesSky](./paquetesSky.md)-- [skyHDGold](./skyHDGold.md) ---[slyHDBlack](./slyHDBlack.md)-- [slyHDPlatinum](./slyHDPlatinum)--
+[paquetesSky](./paquetesSky.md)-- [skyHDGold](./skyHDGold.md) ---[slyHDBlack](./slyHDBlack.md)-- [slyHDPlatinum](./slyHDPlatinum.md)--[index](./index.md)--
+
 
 
