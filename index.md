@@ -5,7 +5,6 @@ es uno de los principales proveedores de televisión de paga en México y Centro
 ![descarga](https://user-images.githubusercontent.com/99779186/157337262-fd100914-1125-45cb-9b31-b7d04e53e50b.jpg)
 
 
-
 [paquetesSky](./paquetesSky.md)-- [skyHDGold](./skyHDGold.md) ---[slyHDBlack](./slyHDBlack.md)-- [slyHDPlatinum](./slyHDPlatinum.md)--[index](./index.md)--
 
 
