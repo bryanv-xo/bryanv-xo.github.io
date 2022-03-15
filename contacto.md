@@ -19,7 +19,7 @@ codigo QR
 
 <form>
   <label for="name"> nombres:</label><br>
-  <inpunt type="text" id="name" name="name" value="tus nombres"><br>
+  <input type="text" id="name" name="name" value="tus nombres"><br>
     <label for="lname">apellidos.</label><br>
     <input type="text" id="lname" name="lname" value="apellidos"> <br>
     </form>
