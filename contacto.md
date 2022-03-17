@@ -17,7 +17,7 @@ codigo QR
 
 
 
-<form>
+<form action="/action_page.php">
   <label for="name"> nombres:</label><br>
   <input type="text" id="name" name="name" value=""><br>
     <label for="lname">apellidos.</label><br>
