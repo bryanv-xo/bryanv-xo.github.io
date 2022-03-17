@@ -25,6 +25,6 @@ codigo QR
   <label for="lname">numero telefonico:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
   <label for="lname">correo electronico:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
 <input type="submit" value="enviar">
     </form>
