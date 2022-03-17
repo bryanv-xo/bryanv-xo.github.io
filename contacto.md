@@ -22,5 +22,9 @@ codigo QR
   <input type="text" id="name" name="name" value=""><br>
     <label for="lname">apellidos.</label><br>
     <input type="text" id="lname" name="lname" value=""> <br>
+  <label for="lname">numero telefonico:</label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="lname">correo electronico:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
 <input type="submit" value="enviar">
     </form>
