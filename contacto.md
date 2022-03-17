@@ -22,4 +22,6 @@ codigo QR
   <input type="text" id="name" name="name" value=""><br>
     <label for="lname">apellidos.</label><br>
     <input type="text" id="lname" name="lname" value=""> <br>
+<input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
     </form>
