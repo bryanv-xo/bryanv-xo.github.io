@@ -8,7 +8,7 @@ correo brianvilla85@yopmail.com
 numero: 5584676271
 
 
-link de whatsapp: https://wa.link/75il71
+link de whatsapp: [https://wa.link/75il71](https://wa.link/75il71)
 
 
 codigo QR
