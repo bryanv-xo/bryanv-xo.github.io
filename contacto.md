@@ -27,4 +27,9 @@ codigo QR
   <label for="lname">correo electronico:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
 <input type="submit" value="enviar">
-    </form>
+  <label for="start">Start date:</label>
+
+<input type="date" id="start" name="trip-start"
+       value="2018-07-22"
+       min="2018-01-01" max="2018-12-31">
+   </form>
