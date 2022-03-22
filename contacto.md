@@ -17,7 +17,7 @@ codigo QR
 
 
 
-<form action="/action_page.php">
+<form action="/action_page.php" method="post">
   <label for="name"> nombres:</label><br>
   <input type="text" id="name" name="name" value=""><br>
     <label for="lname">apellidos.</label><br>
@@ -27,9 +27,13 @@ codigo QR
   <label for="lname">correo electronico:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
 <input type="submit" value="enviar">
-  <label for="start">Start date:</label>
+  <label for="start">Start date:</label> 
+     
+
 
 <input type="date" id="start" name="trip-start"
        value="2018-07-22"
        min="1945-01-01" max="2032-12-31">
-   </form>
+  
+  
+  </form>
