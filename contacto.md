@@ -17,7 +17,7 @@ codigo QR
 
 
 
-<form action="/action_page.php" method="post">
+<form action="https://formspree.io/f/xnqwzeko" method="post">
   <label for="name"> nombres:</label><br>
   <input type="text" id="name" name="name" value=""><br>
     <label for="lname">apellidos.</label><br>
