@@ -23,7 +23,8 @@ promocion
 ESTOS SON LOS CANALES QUE COMPONEN EL PAQUETE      ![image](https://user-images.githubusercontent.com/99779186/157769758-3728f98d-dac5-40cf-a9c6-0d1b11c2fd7b.png)
 
 
-![image](https://user-images.githubusercontent.com/99779186/157769946-47c4d8da-c6be-4330-8ee5-915aba8bad99.png)
+![image](https://user-images.githubusercontent.com/99779186/157769946-47c4d8da-c6be-4330-8ee5-915aba8bad99.png)  ![image](https://user-images.githubusercontent.com/99779186/164946361-54a80cc2-0764-4bb9-aaaa-aa3604b76286.png)
+
 
 
 
